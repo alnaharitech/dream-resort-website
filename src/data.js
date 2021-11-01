@@ -31,7 +31,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "تمتّع بإقامة مريحة وفخمة في منتجع الاحلام ذو النجوم الخمس، فبالإضافة إلى المناظر الرائعة لأفق المدينة أو الخليج العربي، فإن جميع الغرف والأجنحة البالغ عددها 121 غرفة و 22 جناح فخم تشتمل على إنترنت لاسلكي مجاني وآلة إعداد قهوة نسبريسو ومكتب عصري لمتابعة الأعمال وتلفزيون يعرض قنوات فضائية، وقاعدة توصيل iHome ،إضافةً إلى ثلاجة صغيرة، ومكيّف هواء، ونظام تدفئة. ، احجز غرفة ديلوكس أو تمتّع بمساحة إضافية ومنطقة جلوس رائعة في غرفنا البريميوم، كما وتضم أجنحتنا الأنيقة غرفاً للجلوس والطعام ومناطق للتزيّن وارتداء الملابس فضلاً عن مقصورة دُش زجاجية وجاكوزي ووجبة فطور مجانية. تحتوي الأجنحة الملكية على سرير مزدوج كينج وسريرين مفردين في غرفتي نوم منفصلتين.",
       extras: [
         "وسائد قطيفة وبياضات أسرّة تسمح بمرور الهواء",
         "مناشف حمام ناعمة كبيرة الحجم",
@@ -88,7 +88,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+      "تمتّع بإقامة مريحة وفخمة في منتجع الاحلام ذو النجوم الخمس، فبالإضافة إلى المناظر الرائعة لأفق المدينة أو الخليج العربي، فإن جميع الغرف والأجنحة البالغ عددها 121 غرفة و 22 جناح فخم تشتمل على إنترنت لاسلكي مجاني وآلة إعداد قهوة نسبريسو ومكتب عصري لمتابعة الأعمال وتلفزيون يعرض قنوات فضائية، وقاعدة توصيل iHome ،إضافةً إلى ثلاجة صغيرة، ومكيّف هواء، ونظام تدفئة. ، احجز غرفة ديلوكس أو تمتّع بمساحة إضافية ومنطقة جلوس رائعة في غرفنا البريميوم، كما وتضم أجنحتنا الأنيقة غرفاً للجلوس والطعام ومناطق للتزيّن وارتداء الملابس فضلاً عن مقصورة دُش زجاجية وجاكوزي ووجبة فطور مجانية. تحتوي الأجنحة الملكية على سرير مزدوج كينج وسريرين مفردين في غرفتي نوم منفصلتين.",
       extras: [
         "وسائد قطيفة وبياضات أسرّة تسمح بمرور الهواء",
         "مناشف حمام ناعمة كبيرة الحجم",
@@ -145,7 +145,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+      "تمتّع بإقامة مريحة وفخمة في منتجع الاحلام ذو النجوم الخمس، فبالإضافة إلى المناظر الرائعة لأفق المدينة أو الخليج العربي، فإن جميع الغرف والأجنحة البالغ عددها 121 غرفة و 22 جناح فخم تشتمل على إنترنت لاسلكي مجاني وآلة إعداد قهوة نسبريسو ومكتب عصري لمتابعة الأعمال وتلفزيون يعرض قنوات فضائية، وقاعدة توصيل iHome ،إضافةً إلى ثلاجة صغيرة، ومكيّف هواء، ونظام تدفئة. ، احجز غرفة ديلوكس أو تمتّع بمساحة إضافية ومنطقة جلوس رائعة في غرفنا البريميوم، كما وتضم أجنحتنا الأنيقة غرفاً للجلوس والطعام ومناطق للتزيّن وارتداء الملابس فضلاً عن مقصورة دُش زجاجية وجاكوزي ووجبة فطور مجانية. تحتوي الأجنحة الملكية على سرير مزدوج كينج وسريرين مفردين في غرفتي نوم منفصلتين.",
       extras: [
         "وسائد قطيفة وبياضات أسرّة تسمح بمرور الهواء",
         "مناشف حمام ناعمة كبيرة الحجم",
@@ -202,7 +202,7 @@ export default [
       breakfast: true,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "تمتّع بإقامة مريحة وفخمة في منتجع الاحلام ذو النجوم الخمس، فبالإضافة إلى المناظر الرائعة لأفق المدينة أو الخليج العربي، فإن جميع الغرف والأجنحة البالغ عددها 121 غرفة و 22 جناح فخم تشتمل على إنترنت لاسلكي مجاني وآلة إعداد قهوة نسبريسو ومكتب عصري لمتابعة الأعمال وتلفزيون يعرض قنوات فضائية، وقاعدة توصيل iHome ،إضافةً إلى ثلاجة صغيرة، ومكيّف هواء، ونظام تدفئة. ، احجز غرفة ديلوكس أو تمتّع بمساحة إضافية ومنطقة جلوس رائعة في غرفنا البريميوم، كما وتضم أجنحتنا الأنيقة غرفاً للجلوس والطعام ومناطق للتزيّن وارتداء الملابس فضلاً عن مقصورة دُش زجاجية وجاكوزي ووجبة فطور مجانية. تحتوي الأجنحة الملكية على سرير مزدوج كينج وسريرين مفردين في غرفتي نوم منفصلتين.",
       extras: [
         "وسائد قطيفة وبياضات أسرّة تسمح بمرور الهواء",
         "مناشف حمام ناعمة كبيرة الحجم",
@@ -259,7 +259,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "تمتّع بإقامة مريحة وفخمة في منتجع الاحلام ذو النجوم الخمس، فبالإضافة إلى المناظر الرائعة لأفق المدينة أو الخليج العربي، فإن جميع الغرف والأجنحة البالغ عددها 121 غرفة و 22 جناح فخم تشتمل على إنترنت لاسلكي مجاني وآلة إعداد قهوة نسبريسو ومكتب عصري لمتابعة الأعمال وتلفزيون يعرض قنوات فضائية، وقاعدة توصيل iHome ،إضافةً إلى ثلاجة صغيرة، ومكيّف هواء، ونظام تدفئة. ، احجز غرفة ديلوكس أو تمتّع بمساحة إضافية ومنطقة جلوس رائعة في غرفنا البريميوم، كما وتضم أجنحتنا الأنيقة غرفاً للجلوس والطعام ومناطق للتزيّن وارتداء الملابس فضلاً عن مقصورة دُش زجاجية وجاكوزي ووجبة فطور مجانية. تحتوي الأجنحة الملكية على سرير مزدوج كينج وسريرين مفردين في غرفتي نوم منفصلتين.",
       extras: [
         "وسائد قطيفة وبياضات أسرّة تسمح بمرور الهواء",
         "مناشف حمام ناعمة كبيرة الحجم",
@@ -316,7 +316,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "تمتّع بإقامة مريحة وفخمة في منتجع الاحلام ذو النجوم الخمس، فبالإضافة إلى المناظر الرائعة لأفق المدينة أو الخليج العربي، فإن جميع الغرف والأجنحة البالغ عددها 121 غرفة و 22 جناح فخم تشتمل على إنترنت لاسلكي مجاني وآلة إعداد قهوة نسبريسو ومكتب عصري لمتابعة الأعمال وتلفزيون يعرض قنوات فضائية، وقاعدة توصيل iHome ،إضافةً إلى ثلاجة صغيرة، ومكيّف هواء، ونظام تدفئة. ، احجز غرفة ديلوكس أو تمتّع بمساحة إضافية ومنطقة جلوس رائعة في غرفنا البريميوم، كما وتضم أجنحتنا الأنيقة غرفاً للجلوس والطعام ومناطق للتزيّن وارتداء الملابس فضلاً عن مقصورة دُش زجاجية وجاكوزي ووجبة فطور مجانية. تحتوي الأجنحة الملكية على سرير مزدوج كينج وسريرين مفردين في غرفتي نوم منفصلتين.",
       extras: [
         "وسائد قطيفة وبياضات أسرّة تسمح بمرور الهواء",
         "مناشف حمام ناعمة كبيرة الحجم",
@@ -373,7 +373,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "تمتّع بإقامة مريحة وفخمة في منتجع الاحلام ذو النجوم الخمس، فبالإضافة إلى المناظر الرائعة لأفق المدينة أو الخليج العربي، فإن جميع الغرف والأجنحة البالغ عددها 121 غرفة و 22 جناح فخم تشتمل على إنترنت لاسلكي مجاني وآلة إعداد قهوة نسبريسو ومكتب عصري لمتابعة الأعمال وتلفزيون يعرض قنوات فضائية، وقاعدة توصيل iHome ،إضافةً إلى ثلاجة صغيرة، ومكيّف هواء، ونظام تدفئة. ، احجز غرفة ديلوكس أو تمتّع بمساحة إضافية ومنطقة جلوس رائعة في غرفنا البريميوم، كما وتضم أجنحتنا الأنيقة غرفاً للجلوس والطعام ومناطق للتزيّن وارتداء الملابس فضلاً عن مقصورة دُش زجاجية وجاكوزي ووجبة فطور مجانية. تحتوي الأجنحة الملكية على سرير مزدوج كينج وسريرين مفردين في غرفتي نوم منفصلتين.",
       extras: [
         "وسائد قطيفة وبياضات أسرّة تسمح بمرور الهواء",
         "مناشف حمام ناعمة كبيرة الحجم",
@@ -430,7 +430,7 @@ export default [
       breakfast: true,
       featured: true,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "تمتّع بإقامة مريحة وفخمة في منتجع الاحلام ذو النجوم الخمس، فبالإضافة إلى المناظر الرائعة لأفق المدينة أو الخليج العربي، فإن جميع الغرف والأجنحة البالغ عددها 121 غرفة و 22 جناح فخم تشتمل على إنترنت لاسلكي مجاني وآلة إعداد قهوة نسبريسو ومكتب عصري لمتابعة الأعمال وتلفزيون يعرض قنوات فضائية، وقاعدة توصيل iHome ،إضافةً إلى ثلاجة صغيرة، ومكيّف هواء، ونظام تدفئة. ، احجز غرفة ديلوكس أو تمتّع بمساحة إضافية ومنطقة جلوس رائعة في غرفنا البريميوم، كما وتضم أجنحتنا الأنيقة غرفاً للجلوس والطعام ومناطق للتزيّن وارتداء الملابس فضلاً عن مقصورة دُش زجاجية وجاكوزي ووجبة فطور مجانية. تحتوي الأجنحة الملكية على سرير مزدوج كينج وسريرين مفردين في غرفتي نوم منفصلتين.",
       extras: [
         "وسائد قطيفة وبياضات أسرّة تسمح بمرور الهواء",
         "مناشف حمام ناعمة كبيرة الحجم",
@@ -487,7 +487,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "تمتّع بإقامة مريحة وفخمة في منتجع الاحلام ذو النجوم الخمس، فبالإضافة إلى المناظر الرائعة لأفق المدينة أو الخليج العربي، فإن جميع الغرف والأجنحة البالغ عددها 121 غرفة و 22 جناح فخم تشتمل على إنترنت لاسلكي مجاني وآلة إعداد قهوة نسبريسو ومكتب عصري لمتابعة الأعمال وتلفزيون يعرض قنوات فضائية، وقاعدة توصيل iHome ،إضافةً إلى ثلاجة صغيرة، ومكيّف هواء، ونظام تدفئة. ، احجز غرفة ديلوكس أو تمتّع بمساحة إضافية ومنطقة جلوس رائعة في غرفنا البريميوم، كما وتضم أجنحتنا الأنيقة غرفاً للجلوس والطعام ومناطق للتزيّن وارتداء الملابس فضلاً عن مقصورة دُش زجاجية وجاكوزي ووجبة فطور مجانية. تحتوي الأجنحة الملكية على سرير مزدوج كينج وسريرين مفردين في غرفتي نوم منفصلتين.",
       extras: [
         "وسائد قطيفة وبياضات أسرّة تسمح بمرور الهواء",
         "مناشف حمام ناعمة كبيرة الحجم",
@@ -544,7 +544,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "تمتّع بإقامة مريحة وفخمة في منتجع الاحلام ذو النجوم الخمس، فبالإضافة إلى المناظر الرائعة لأفق المدينة أو الخليج العربي، فإن جميع الغرف والأجنحة البالغ عددها 121 غرفة و 22 جناح فخم تشتمل على إنترنت لاسلكي مجاني وآلة إعداد قهوة نسبريسو ومكتب عصري لمتابعة الأعمال وتلفزيون يعرض قنوات فضائية، وقاعدة توصيل iHome ،إضافةً إلى ثلاجة صغيرة، ومكيّف هواء، ونظام تدفئة. ، احجز غرفة ديلوكس أو تمتّع بمساحة إضافية ومنطقة جلوس رائعة في غرفنا البريميوم، كما وتضم أجنحتنا الأنيقة غرفاً للجلوس والطعام ومناطق للتزيّن وارتداء الملابس فضلاً عن مقصورة دُش زجاجية وجاكوزي ووجبة فطور مجانية. تحتوي الأجنحة الملكية على سرير مزدوج كينج وسريرين مفردين في غرفتي نوم منفصلتين.",
       extras: [
         "وسائد قطيفة وبياضات أسرّة تسمح بمرور الهواء",
         "مناشف حمام ناعمة كبيرة الحجم",
@@ -601,7 +601,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "تمتّع بإقامة مريحة وفخمة في منتجع الاحلام ذو النجوم الخمس، فبالإضافة إلى المناظر الرائعة لأفق المدينة أو الخليج العربي، فإن جميع الغرف والأجنحة البالغ عددها 121 غرفة و 22 جناح فخم تشتمل على إنترنت لاسلكي مجاني وآلة إعداد قهوة نسبريسو ومكتب عصري لمتابعة الأعمال وتلفزيون يعرض قنوات فضائية، وقاعدة توصيل iHome ،إضافةً إلى ثلاجة صغيرة، ومكيّف هواء، ونظام تدفئة. ، احجز غرفة ديلوكس أو تمتّع بمساحة إضافية ومنطقة جلوس رائعة في غرفنا البريميوم، كما وتضم أجنحتنا الأنيقة غرفاً للجلوس والطعام ومناطق للتزيّن وارتداء الملابس فضلاً عن مقصورة دُش زجاجية وجاكوزي ووجبة فطور مجانية. تحتوي الأجنحة الملكية على سرير مزدوج كينج وسريرين مفردين في غرفتي نوم منفصلتين.",
       extras: [
         "وسائد قطيفة وبياضات أسرّة تسمح بمرور الهواء",
         "مناشف حمام ناعمة كبيرة الحجم",
@@ -658,7 +658,7 @@ export default [
       breakfast: true,
       featured: true,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "تمتّع بإقامة مريحة وفخمة في منتجع الاحلام ذو النجوم الخمس، فبالإضافة إلى المناظر الرائعة لأفق المدينة أو الخليج العربي، فإن جميع الغرف والأجنحة البالغ عددها 121 غرفة و 22 جناح فخم تشتمل على إنترنت لاسلكي مجاني وآلة إعداد قهوة نسبريسو ومكتب عصري لمتابعة الأعمال وتلفزيون يعرض قنوات فضائية، وقاعدة توصيل iHome ،إضافةً إلى ثلاجة صغيرة، ومكيّف هواء، ونظام تدفئة. ، احجز غرفة ديلوكس أو تمتّع بمساحة إضافية ومنطقة جلوس رائعة في غرفنا البريميوم، كما وتضم أجنحتنا الأنيقة غرفاً للجلوس والطعام ومناطق للتزيّن وارتداء الملابس فضلاً عن مقصورة دُش زجاجية وجاكوزي ووجبة فطور مجانية. تحتوي الأجنحة الملكية على سرير مزدوج كينج وسريرين مفردين في غرفتي نوم منفصلتين.",
       extras: [
         "وسائد قطيفة وبياضات أسرّة تسمح بمرور الهواء",
         "مناشف حمام ناعمة كبيرة الحجم",
@@ -715,7 +715,7 @@ export default [
       breakfast: true,
       featured: true,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "تمتّع بإقامة مريحة وفخمة في منتجع الاحلام ذو النجوم الخمس، فبالإضافة إلى المناظر الرائعة لأفق المدينة أو الخليج العربي، فإن جميع الغرف والأجنحة البالغ عددها 121 غرفة و 22 جناح فخم تشتمل على إنترنت لاسلكي مجاني وآلة إعداد قهوة نسبريسو ومكتب عصري لمتابعة الأعمال وتلفزيون يعرض قنوات فضائية، وقاعدة توصيل iHome ،إضافةً إلى ثلاجة صغيرة، ومكيّف هواء، ونظام تدفئة. ، احجز غرفة ديلوكس أو تمتّع بمساحة إضافية ومنطقة جلوس رائعة في غرفنا البريميوم، كما وتضم أجنحتنا الأنيقة غرفاً للجلوس والطعام ومناطق للتزيّن وارتداء الملابس فضلاً عن مقصورة دُش زجاجية وجاكوزي ووجبة فطور مجانية. تحتوي الأجنحة الملكية على سرير مزدوج كينج وسريرين مفردين في غرفتي نوم منفصلتين.",
       extras: [
         "وسائد قطيفة وبياضات أسرّة تسمح بمرور الهواء",
         "مناشف حمام ناعمة كبيرة الحجم",
